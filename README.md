@@ -3,7 +3,7 @@
 
 ## Go To Website
 
-https://benoredstoner.github.io/
+https://benoredstoner.github.io/index.html
 
 ## Usage
 
